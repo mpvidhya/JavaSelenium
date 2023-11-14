@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/vidhya/IdeaProjects/testNGProject/src/main/java/org/example/DdtDemo2.java">
+        <classes>
+            <class name="testngAdvance.DdtDemo2">
+                <methods>
+                    <include name="testDD"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+Excel
+tesng.xml - parametrise
+config
+
+
+
+jenkins
+
+
